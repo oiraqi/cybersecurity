@@ -5,8 +5,10 @@ Your second challenge will be around [OWASP Benchmark](https://owasp.org/www-pro
 In this challenge, pick 10 truly vulnerable test cases of your choice, provided that they map to different CWEs. 
 
 For each test case:
-1. Specify the corresponding CWE(s)
-2. Analyze the source code and explain in details the root cause of the weakness
+1. Specify the corresponding CWE(s) (10 x 0.5 pts)
+2. Analyze the source code and explain in details the root cause of the weakness (10 x 2 pts)
+3. Specify the threatened security requirement(s) (10 x 0.5 pts)
+   
    Install and run OWASP Benchmark (You may want to use docker). Pick 3 out of the 10 already chosen test cases and For each:
-3. Hand craft a corresponding exploit
-4. Test your exploit and describe the outcome
+3. Hand craft a corresponding exploit (3 x 5 pts)
+4. Test your exploit and describe the outcome (3 x 5 pts)
