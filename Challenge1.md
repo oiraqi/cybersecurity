@@ -14,11 +14,11 @@ Then, for each application, give:
 8. A plausible attack, as well as the threat agent/vector/source that can be used to exercise each vulnerability (10 pts.)
 
 ## Readings
-1. CVSS
+1. [CVSS](https://www.first.org/cvss/)
 
 ## Resources
-1. National Vulnerability Database (NVD)
-2. SecurityFocus.com
+1. [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+2. [SecurityFocus.com](https://www.securityfocus.com)
 
 ## Very important
 1. The discovered vulnerabilities shall be kept confidential, i.e. shared with the course instructor only. Then, the student and the course instructor shall share the vulnerabilities with ITS.
