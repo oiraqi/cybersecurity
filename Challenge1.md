@@ -2,7 +2,8 @@
 
 Your first security challenge consists of selecting two web applications used by AUI. Preferably, one should be cloud-based and the other one should be traditional, on-premise.
 
-Then, for each service, give:
+Then, for each application, give:
+
 1. The type(s) of information it manages (5 pts.)
 2. The business processes it supports (5 pts.)
 3. Its security requirements based on 1 and 2 (10 pts.)
