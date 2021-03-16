@@ -12,5 +12,5 @@ For each test case:
 
 ## Exploit Design and Penetration Testing (30 pts.)
 Install and run OWASP Benchmark (You may want to use docker). Pick 3 out of the 10 already chosen test cases and For each:
-1. Hand craft a corresponding exploit (3 x 5 pts)
+1. Handcraft and describe a corresponding exploit (3 x 5 pts)
 2. Test your exploit and describe the outcome (3 x 5 pts)
