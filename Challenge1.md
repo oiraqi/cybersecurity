@@ -1,4 +1,4 @@
-# Security Challenge 1 - 60 pts.
+# Security Challenge 1 (60 pts.)
 
 Your first security challenge consists of selecting two web applications used by AUI. Preferably, one should be cloud-based and the other one should be traditional, on-premise.
 
