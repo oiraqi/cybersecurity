@@ -8,6 +8,6 @@ For each test case:
 1. Specify the corresponding CWE(s)
 2. Analyze the source code and explain in details the root cause of the weakness
 
-Install and run OWASP Benchmark (You may want to use docker). Pick 3 out of the 10 already chosen test cases and For each:\
+   Install and run OWASP Benchmark (You may want to use docker). Pick 3 out of the 10 already chosen test cases and For each:\
 3. Hand craft a corresponding exploit
 4. Test your exploit and describe the outcome
