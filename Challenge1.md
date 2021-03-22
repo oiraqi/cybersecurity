@@ -1,6 +1,6 @@
 # Security Challenge 1 (60 pts.)
 
-Your first security challenge consists of selecting two web applications used by AUI. Preferably, one should be cloud-based and the other one should be traditional, on-premise.
+Your first security challenge consists of selecting two web applications used by your University or Organization. Preferably, one should be cloud-based and the other one should be traditional, on-premise.
 
 Then, for each application, give:
 
@@ -21,5 +21,5 @@ Then, for each application, give:
 2. [SecurityFocus.com](https://www.securityfocus.com)
 
 ## Very important
-1. The discovered vulnerabilities shall be kept confidential, i.e. shared with the course instructor only. Then, the student and the course instructor shall share the vulnerabilities with ITS.
-2. The student shall not try to exercise the discovered vulnerabilities.
+1. The discovered vulnerabilities shall be kept confidential, i.e. shared with the course instructor only. Then, the learner and the course instructor shall share the vulnerabilities with IT department.
+2. The learner shall not try to exercise the discovered vulnerabilities.
