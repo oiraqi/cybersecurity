@@ -33,6 +33,7 @@ You shall set these rules *from within* your HDLPS code:
   iptables -A INPUT -p udp -j QUEUE
   ```
 Before terminating your HDLPS, you shall delete/flush these rules *from within* the code:
+- `Flush all rules`
   ```
   iptables -F
   ```
