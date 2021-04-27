@@ -19,5 +19,8 @@ sudo ./hdlps [Remote IP@] [Remote UDP Port] [Keyword] [Number of Leaking Packets
 ## Developing HDLPS
 You shall use [netfilter.org](https://www.netfilter.org/) meta project. More specifically, you will use netfilter.org [iptables](https://www.netfilter.org/projects/iptables/index.html) project, as well as its companion [libnetfilter_queue](https://www.netfilter.org/projects/libnetfilter_queue/index.html) project.
 
+### UDP Header
+UDP header structure can be accessed [here](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+
 ### Sample Code / Skeleton
 Use this [code](https://git.netfilter.org/libnetfilter_queue/tree/examples/nf-queue.c) as a starting point. Analyze it, prune it and modify it to build your HDPLS.
