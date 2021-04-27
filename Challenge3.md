@@ -32,7 +32,10 @@ You shall set these rules *from within* your HDLPS code:
   ```
   iptables -A INPUT -p udp -j QUEUE
   ```
-Before terminating your HDLPS, you shall remove these rules *from within* the code.
+Before terminating your HDLPS, you shall remove these rules *from within* the code:
+  ```
+  iptables -F
+  ```
 
 ### Sample Code / Skeleton
 Use this [code](https://git.netfilter.org/libnetfilter_queue/tree/examples/nf-queue.c) as your starting point. Analyze it, prune it and modify it to build your HDPLS.
