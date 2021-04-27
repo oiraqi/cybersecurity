@@ -1,1 +1,2 @@
-
+# Security Challenge 3 (60 pts.)
+In this security challenge, you are to develop a Host-based Data Leak Prevention System (HDLPS) in C programming language. To this end, you shall use [netfilter.org](https://www.netfilter.org/) meta project. More specifically, you will use netfilter.org [iptables](https://www.netfilter.org/projects/iptables/index.html) project, as well as its companion [libnetfilter_queue](https://www.netfilter.org/projects/libnetfilter_queue/index.html) project.
