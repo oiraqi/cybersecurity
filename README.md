@@ -26,7 +26,7 @@ This course enables students to achieve, by the end of the semester, the ability
 ## Course Content and Planning
 | Part | Main Concepts | Weeks
 | --- | --- | --- |
-| Part I| Cybersecurity introduction and culture, CIA requirements, threats, vulnerabilities, risks| 2 |
-| Part II| OWASP Top 10 risks, corresponding attacks and countermeasures, CVEs, CWEs| 3 |
-| Part III| LANs, evesdropping, spoofing, poisoning, VLANs, IP, stateless / stateful firewalls, IDS/IPS, DLP, UTM| 6 |
-| Part IV| Private key encryption, public key encryption, digital signatures, certificates, PKI| 3 |
+| **Part I** | Cybersecurity introduction and culture, CIA requirements, threats, vulnerabilities, risks| 2 |
+| **Part II** | OWASP Top 10 risks, corresponding attacks and countermeasures, CVEs, CWEs| 3 |
+| **Part III** | LANs, evesdropping, spoofing, poisoning, VLANs, IP, stateless / stateful firewalls, IDS/IPS, DLP, UTM| 6 |
+| **Part IV** | Private key encryption, public key encryption, digital signatures, certificates, PKI| 3 |
