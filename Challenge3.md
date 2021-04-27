@@ -39,7 +39,7 @@ Before terminating your HDLPS, you shall delete/flush these rules *from within* 
   ```
 
 ### Sample Code / Skeleton
-Use this [code](https://git.netfilter.org/libnetfilter_queue/tree/examples/nf-queue.c) as your starting point. Analyze it, prune it and modify it to build your HDPLS.
+Use this [code](https://git.netfilter.org/libnetfilter_queue/tree/examples/nf-queue.c) as your starting point. Analyze it, prune it and modify it to build your HDLPS.
 
 ## Deliverables
 One zip file containing:
