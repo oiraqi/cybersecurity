@@ -25,13 +25,13 @@ UDP header is 8 bytes. Its structure can be accessed [here](https://en.wikipedia
 ### iptables Rules
 You shall set these rules *from within* your HDLPS code.
 - `Rule for outgoing packets`
-```
-iptables -A OUTPUT -p udp -j QUEUE
-```
+  ```
+  iptables -A OUTPUT -p udp -j QUEUE
+  ```
 - `Rule for incoming packets`
-```
-iptables -A INPUT -p udp -j QUEUE
-```
+  ```
+  iptables -A INPUT -p udp -j QUEUE
+  ```
 
 ### Sample Code / Skeleton
 Use this [code](https://git.netfilter.org/libnetfilter_queue/tree/examples/nf-queue.c) as a starting point. Analyze it, prune it and modify it to build your HDPLS.
