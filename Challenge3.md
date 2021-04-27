@@ -11,9 +11,10 @@ The criteria are expressed in terms of:
 The HDLPS shall output each alert on the console. The alert shall show the whole leaked content (containing the keyword)
 
 ## Running HDLPS
-HDLPS requires a Linux box (use a container or a VM if needed), with root/sudo privileges. It shall take the criteria as command line arguments:
-
+HDLPS requires a Linux box, with root/sudo privileges. Use a container or a VM if needed. HDLPS shall take the criteria as command line arguments:
+```
 sudo ./hdlps [Remote IP@] [Remote UDP Port] [Keyword] [Number of Leaking Packets To Be Detected]
+```
 
 ## Developing HDLPS
 You shall use [netfilter.org](https://www.netfilter.org/) meta project. More specifically, you will use netfilter.org [iptables](https://www.netfilter.org/projects/iptables/index.html) project, as well as its companion [libnetfilter_queue](https://www.netfilter.org/projects/libnetfilter_queue/index.html) project.
