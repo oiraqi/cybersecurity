@@ -17,7 +17,7 @@ sudo ./hdlps [Remote IP@] [Remote UDP Port] [Keyword] [Number of Leaking Packets
 ```
 
 ## Developing HDLPS
-You shall use [netfilter.org](https://www.netfilter.org/) meta project. More specifically, you will use netfilter.org [iptables](https://www.netfilter.org/projects/iptables/index.html) project, as well as its companion [libnetfilter_queue](https://www.netfilter.org/projects/libnetfilter_queue/index.html) project.
+You shall use [netfilter.org](https://www.netfilter.org/) meta project. More specifically, you shall use netfilter.org [iptables](https://www.netfilter.org/projects/iptables/index.html) project, as well as its companion [libnetfilter_queue](https://www.netfilter.org/projects/libnetfilter_queue/index.html) project.
 
 ### UDP Header
 UDP header is 8 bytes. Its structure can be accessed [here](https://en.wikipedia.org/wiki/User_Datagram_Protocol).
