@@ -1,4 +1,9 @@
 # Cyber Security
 ## Description
-In a continually evolving cyber landscape with current trends of mobility, cloud computing, Web 2.0, as well as integrated apps and services, cyber attacks are on
-the rise. This course provides the theoritical knowledge and practical skills to understand and mitigate these attacks. It is structured around four parts:
+In a continually evolving cyber landscape with current trends of mobility, cloud computing, Web 2.0, as well as integrated apps and services, cyber attacks are persistently on the rise. This course provides the theoritical knowledge and practical skills to understand and mitigate these attacks. It is structured around four parts:
+- Part I. Cybersecurity foundation: cyber landscape trends, security requirements, fundamental concepts, principles and technical controls in both traditional and cloud environments
+- Part II. Application security: Focus on OWASP Top 10 risks, and corresponding countermeasures
+- Part III. Network security: Computer networks background, network security vulnerabilities, threats and countermeasures
+- Part IV. Cryptography: Focus on PKI infrastucture
+
+This course uses mainly material developed by Palo Alto Networks, aligned with the National Initiative for Cybersecurity Education (NICE) framework developed by NIST. A variety of other resources are used as needed. Challenges are designed to allow students practice the concepts covered in lectures.
