@@ -30,3 +30,11 @@ This course enables students to achieve, by the end of the semester, the ability
 | **Part II** | OWASP Top 10 risks, corresponding attacks and countermeasures, CVEs, CWEs| 3 |
 | **Part III** | LANs, evesdropping, spoofing, poisoning, VLANs, IP, stateless / stateful firewalls, IDS/IPS, DLP, UTM| 6 |
 | **Part IV** | Private key encryption, public key encryption, digital signatures, certificates, PKI| 3 |
+
+## Assessment
+| Part | Participation | Quiz | Challenge |
+| --- | --- | --- | --- |
+| Part I (20%) | 20% | Quiz 1: 20% | Challenge 1: 60% |
+| Part II (20%) | 20% | Quiz 2: 20% | Challenge 2: 60% |
+| Part III (40%) | 20% | Quiz 3: 20% | Challenge 3: 60% |
+| Part IV (20%) | 20% | Quiz 4: 20% | Challenge 4: 60% |
