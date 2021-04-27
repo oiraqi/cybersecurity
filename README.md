@@ -34,7 +34,7 @@ This course enables students to achieve, by the end of the semester, the ability
 ## Assessment
 | Part | Participation | Quiz | Challenge |
 | --- | --- | --- | --- |
-| Part I (20%) | 20% | Quiz 1: 20% | Challenge 1: 60% |
-| Part II (20%) | 20% | Quiz 2: 20% | Challenge 2: 60% |
-| Part III (40%) | 20% | Quiz 3: 20% | Challenge 3: 60% |
-| Part IV (20%) | 20% | Quiz 4: 20% | Challenge 4: 60% |
+| **Part I (20%)** | 20% | Quiz 1: 20% | Challenge 1: 60% |
+| **Part II (20%)** | 20% | Quiz 2: 20% | Challenge 2: 60% |
+| **Part III (40%)** | 20% | Quiz 3: 20% | Challenge 3: 60% |
+| **Part IV (20%)** | 20% | Quiz 4: 20% | Challenge 4: 60% |
