@@ -1,15 +1,15 @@
 # Cyber Security
 ## Description
 In a continually evolving cyber landscape with current trends of mobility, cloud computing, Web 2.0, as well as integrated apps and services, cyber attacks are persistently on the rise. This course provides the theoretical knowledge and practical skills to understand and mitigate these attacks. It is structured around four parts:
-- **Part I. Cybersecurity foundation:** cyber landscape trends, security requirements, fundamental concepts, principles and technical controls in both traditional and cloud environments
-- **Part II. Application security:** Focus on OWASP Top 10 risks, and corresponding countermeasures
-- **Part III. Network security:** Computer networks background, network security vulnerabilities, threats and countermeasures
+- **Part I. Cybersecurity foundation:** cyber landscape trends, security requirements, fundamental concepts, principles and technical controls
+- **Part II. Application security:** OWASP Top 10, CWE Top 25, CAPEC, Threat modeling (Focus on STRIDE), and Application-layer IAAA
+- **Part III. Network security:** Computer networks review, network security vulnerabilities, On and Off-path attacks, and countermeasures
 - **Part IV. Cryptography:** Focus on PKI infrastucture
 
-This course uses mainly material developed by Palo Alto Networks, aligned with the National Initiative for Cybersecurity Education (NICE) framework developed by NIST. A variety of other resources are used as needed. Challenges are designed to allow students practice the concepts covered in lectures.
+This course uses a variety of resources. Challenges are designed to allow students practice the concepts covered in lectures.
 
 ## Prerequisites
-Senior standing, CSC3352 (Computer Communication)
+Senior standing, CSC3371 (Computer Communication)
 
 ## Intended Learning Outcomes
 This course enables students to achieve, by the end of the semester, the ability to:
