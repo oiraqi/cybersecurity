@@ -28,8 +28,8 @@ This course enables students to achieve, by the end of the semester, the ability
 | --- | --- | --- |
 | **Part I** | Cybersecurity introduction and culture, CIA requirements, threats, vulnerabilities, risks| 2 |
 | **Part II** | OWASP Top 10, CWE Top 25, CAPEC, STRIDE, IAAA | 4 |
-| **Part III** | LANs, evesdropping, spoofing, poisoning, VLANs, IP, reflection, amplification, intrusion detection | 5 |
-| **Part IV** | Private key encryption, public key encryption, digital signatures, certificates, PKI| 3 |
+| **Part III** | LANs, eavesdropping, spoofing, poisoning, VLANs, IP, reflection, amplification, intrusion detection | 5 |
+| **Part IV** | Private-key encryption, public-key encryption, digital signatures, certificates, PKI| 3 |
 
 ## Assessment
 | Part | Class Participation | Group Discussion | Quiz | Challenge |
