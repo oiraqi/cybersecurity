@@ -1,12 +1,12 @@
 # Cyber Security
 ## Description
-In a continually evolving cyber landscape with current trends of mobility, cloud computing, Web 2.0, as well as integrated apps and services, cyber attacks are persistently on the rise. This course provides the theoretical knowledge and practical skills to understand and mitigate these attacks. It is structured around four parts:
+In a continually evolving cyber landscape with current trends of mobility, cloud computing, Web 2.0, as well as integrated apps and services, cyber-attacks are persistently on the rise. This course provides the theoretical knowledge and practical skills to understand and mitigate these attacks. It is structured around four parts:
 - **Part I. Cybersecurity foundation:** cyber landscape trends, security requirements, fundamental concepts, principles and technical controls
 - **Part II. Application security:** OWASP Top 10, CWE Top 25, CAPEC, Threat modeling (Focus on STRIDE), and Application-layer IAAA
 - **Part III. Network security:** Computer networks review, network security vulnerabilities, On and Off-path attacks, and countermeasures
-- **Part IV. Cryptography:** Focus on PKI infrastucture
+- **Part IV. Cryptography:** Focus on PKI infrastructure
 
-This course uses a variety of resources. Challenges are designed to allow students practice the concepts covered in lectures.
+This course uses a variety of resources. Challenges are designed to allow students to practice the concepts covered in lectures.
 
 ## Prerequisites
 Senior standing, CSC3371 (Computer Communication)
