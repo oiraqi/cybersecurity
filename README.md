@@ -32,9 +32,9 @@ This course enables students to achieve, by the end of the semester, the ability
 | **Part IV** | Private key encryption, public key encryption, digital signatures, certificates, PKI| 3 |
 
 ## Assessment
-| Part | Participation | Quiz | Challenge |
-| --- | --- | --- | --- |
-| **Part I (15%)** | 20% | Quiz 1: 20% | Challenge 1: 50% |
-| **Part II (30%)** | 20% | Quiz 2: 20% | Challenge 2: 50% |
-| **Part III (30%)** | 20% | Quiz 3: 20% | Challenge 3: 50% |
-| **Part IV (25%)** | 20% | Quiz 4: 20% | Challenge 4: 60% |
+| Part | Class Participation | Group Discussion | Quiz | Challenge |
+| --- | --- | --- | --- | --- |
+| **Part I (15%)** | 10% | 10% | Quiz 1: 30% | Challenge 1: 50% |
+| **Part II (30%)** | 10% | 10% | Quiz 2: 30% | Challenge 2: 50% |
+| **Part III (30%)** | 10% | 10% | Quiz 3: 30% | Challenge 3: 50% |
+| **Part IV (25%)** | 10% | 10% | Quiz 4: 30% | Challenge 4: 60% |
