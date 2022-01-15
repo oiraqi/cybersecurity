@@ -13,9 +13,9 @@ Senior standing, CSC3371 (Computer Communication)
 
 ## Intended Learning Outcomes
 This course enables students to achieve, by the end of the semester, the ability to:
-1. Describe the C.I.A. security requirements, fundamental concepts, principles and the risk-based approach
-2. Explain top application security vulnerabilities, corresponding threats and countermeasures
-3. Explain intrinsic network vulnerabilities, corresponding threats and countermeasures
+1. Describe the C.I.A. security requirements, fundamental concepts, principles, and the risk-based approach
+2. Explain top application security vulnerabilities, corresponding attack patterns, and countermeasures including IAAA
+3. Explain intrinsic network vulnerabilities, corresponding threats, and countermeasures
 4. Explain the need for cryptography and the fundamentals of PKI
 
 ## Mapping Course ILOs To ABET Student Outcomes
