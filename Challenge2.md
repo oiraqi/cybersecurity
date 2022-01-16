@@ -1,4 +1,4 @@
-# Security Challenge 2 (60 pts.)
+# Security Challenge 2
 
 Your second challenge will be around [OWASP Benchmark](https://owasp.org/www-project-benchmark/), a Java test suite for evaluating the accuracy, coverage, and speed of automated software vulnerability detection tools. OWASP Benchmark is designed as [an open source web application](https://github.com/OWASP/Benchmark) with thousands of exploitable test cases, each mapped to specific [CWEs](https://cwe.mitre.org/). Some test cases are truly vulnerable/expoloitable and others are not.
 
