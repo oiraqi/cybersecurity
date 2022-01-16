@@ -1,4 +1,4 @@
-# Security Challenge 3 (60 pts.)
+# Security Challenge 4
 ## Description
 In this security challenge, you are to develop a user space Host-based Data Leak Prevention System (HDLPS) in C programming language. This is a software filter that runs on a host and captures all incoming and outgoing packets. Captured packets are then inspected based on well-defined criteria. An alert is fired each time these criteria are met. For simplicity, we will be considering UDP traffic only.
 
