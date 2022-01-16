@@ -1,12 +1,12 @@
 # Security Challenge 1
 
-Your first security challenge consists of selecting two web applications used by your University or Organization. Preferably, one should be cloud-based and the other one should be traditional, on-premise.
+Your first security challenge consists of selecting two information systems (web applications, web server, DBMS, etc.) used by your University or Organization. Preferably (but not necessarily), one should be cloud-based and the other one should be traditional, on-premise.
 
 Then, for each application, give:
 
 1. The type(s) of information it manages
 2. The business processes it supports
-3. Its security requirements based on 1 and 2
+3. Its high-level security requirements (C.I.A) based on 1 and 2
 4. A technical vulnerability (do your best to find one). You need to perform reconnaissance + research
 5. The CVSS 3.1 severity score of each discovered vulnerability. Explain the factors that led to each score
 6. The security requirement(s) that may be compromised because of each vulnerability
