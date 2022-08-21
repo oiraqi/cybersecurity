@@ -1,6 +1,6 @@
 # Security Challenge 1
 
-Your first security challenge consists of selecting two information systems (web applications, web server, DBMS, etc.) used by your University or Organization. Preferably (but not necessarily), one should be cloud-based and the other one should be traditional, on-premise.
+Your first security challenge consists of selecting two information systems (web applications, web server, DBMS, etc.) used by our University. Preferably (but not necessarily), one should be cloud-based and the other one should be traditional, on-premise.
 
 Then, for each application, give:
 
